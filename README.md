@@ -1,5 +1,4 @@
 # Proyecto1
-Trabajo Grupal 
+Trabajo 
 Jose manuel mezcua rivas 
-Juan Prados cantarero 
-Manuel Navarro pozuelo 
+
